@@ -1,9 +1,7 @@
 # 💳 Customer Credit Risk Data Pipeline
 
-<p align="center">
-  <b>End-to-End Data Preprocessing & Feature Engineering for Credit Risk Modeling</b><br>
-  <i>From raw multi-source data to a machine learning-ready dataset</i>
-</p>
+End-to-End Data Preprocessing & Feature Engineering for Credit Risk Modeling
+  From raw multi-source data to a machine learning-ready dataset
 
 ---
 
@@ -187,6 +185,4 @@ This dataset can now be used for:
 
 ---
 
-<p align="center">
-  💡 <b>Good models start with great data.</b>
-</p>
+  💡 Good models start with great data.
