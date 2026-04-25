@@ -1,0 +1,1802 @@
+[
+    {
+        "customer_id": 1001,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 63
+    },
+    {
+        "customer_id": 1002,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 75
+    },
+    {
+        "customer_id": 1003,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 48
+    },
+    {
+        "customer_id": 1004,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 38
+    },
+    {
+        "customer_id": 1005,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 88
+    },
+    {
+        "customer_id": 1006,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 97
+    },
+    {
+        "customer_id": 1007,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 57
+    },
+    {
+        "customer_id": 1008,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 62
+    },
+    {
+        "customer_id": 1009,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 81
+    },
+    {
+        "customer_id": 1010,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 50
+    },
+    {
+        "customer_id": 1011,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 58
+    },
+    {
+        "customer_id": 1012,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 21
+    },
+    {
+        "customer_id": 1013,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 29
+    },
+    {
+        "customer_id": 1014,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 17
+    },
+    {
+        "customer_id": 1015,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 84
+    },
+    {
+        "customer_id": 1016,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 82
+    },
+    {
+        "customer_id": 1017,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 14
+    },
+    {
+        "customer_id": 1018,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 95
+    },
+    {
+        "customer_id": 1019,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 20
+    },
+    {
+        "customer_id": 1020,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 9
+    },
+    {
+        "customer_id": 1021,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 27
+    },
+    {
+        "customer_id": 1022,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 19
+    },
+    {
+        "customer_id": 1023,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 26
+    },
+    {
+        "customer_id": 1024,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 26
+    },
+    {
+        "customer_id": 1025,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 49
+    },
+    {
+        "customer_id": 1026,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 53
+    },
+    {
+        "customer_id": 1027,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 97
+    },
+    {
+        "customer_id": 1028,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 17
+    },
+    {
+        "customer_id": 1029,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 49
+    },
+    {
+        "customer_id": 1030,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 49
+    },
+    {
+        "customer_id": 1031,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 99
+    },
+    {
+        "customer_id": 1032,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 7
+    },
+    {
+        "customer_id": 1033,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 16
+    },
+    {
+        "customer_id": 1034,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 62
+    },
+    {
+        "customer_id": 1035,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 25
+    },
+    {
+        "customer_id": 1036,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 80
+    },
+    {
+        "customer_id": 1037,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 29
+    },
+    {
+        "customer_id": 1038,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 6
+    },
+    {
+        "customer_id": 1039,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 78
+    },
+    {
+        "customer_id": 1040,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 90
+    },
+    {
+        "customer_id": 1041,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 33
+    },
+    {
+        "customer_id": 1042,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 45
+    },
+    {
+        "customer_id": 1043,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 52
+    },
+    {
+        "customer_id": 1044,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 75
+    },
+    {
+        "customer_id": 1045,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 30
+    },
+    {
+        "customer_id": 1046,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 90
+    },
+    {
+        "customer_id": 1047,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 78
+    },
+    {
+        "customer_id": 1048,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 26
+    },
+    {
+        "customer_id": 1049,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 48
+    },
+    {
+        "customer_id": 1050,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 73
+    },
+    {
+        "customer_id": 1051,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 77
+    },
+    {
+        "customer_id": 1052,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 48
+    },
+    {
+        "customer_id": 1053,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 20
+    },
+    {
+        "customer_id": 1054,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 3
+    },
+    {
+        "customer_id": 1055,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 40
+    },
+    {
+        "customer_id": 1056,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 78
+    },
+    {
+        "customer_id": 1057,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 44
+    },
+    {
+        "customer_id": 1058,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 6
+    },
+    {
+        "customer_id": 1059,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 22
+    },
+    {
+        "customer_id": 1060,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 52
+    },
+    {
+        "customer_id": 1061,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 94
+    },
+    {
+        "customer_id": 1062,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 71
+    },
+    {
+        "customer_id": 1063,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 84
+    },
+    {
+        "customer_id": 1064,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 48
+    },
+    {
+        "customer_id": 1065,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 69
+    },
+    {
+        "customer_id": 1066,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 64
+    },
+    {
+        "customer_id": 1067,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 69
+    },
+    {
+        "customer_id": 1068,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 37
+    },
+    {
+        "customer_id": 1069,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 3
+    },
+    {
+        "customer_id": 1070,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 17
+    },
+    {
+        "customer_id": 1071,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 72
+    },
+    {
+        "customer_id": 1072,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 11
+    },
+    {
+        "customer_id": 1073,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 88
+    },
+    {
+        "customer_id": 1074,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 14
+    },
+    {
+        "customer_id": 1075,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 10
+    },
+    {
+        "customer_id": 1076,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 34
+    },
+    {
+        "customer_id": 1077,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 17
+    },
+    {
+        "customer_id": 1078,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 62
+    },
+    {
+        "customer_id": 1079,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 1
+    },
+    {
+        "customer_id": 1080,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 42
+    },
+    {
+        "customer_id": 1081,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 85
+    },
+    {
+        "customer_id": 1082,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 4
+    },
+    {
+        "customer_id": 1083,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 19
+    },
+    {
+        "customer_id": 1084,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 81
+    },
+    {
+        "customer_id": 1085,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 6
+    },
+    {
+        "customer_id": 1086,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 11
+    },
+    {
+        "customer_id": 1087,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 12
+    },
+    {
+        "customer_id": 1088,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 8
+    },
+    {
+        "customer_id": 1089,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 53
+    },
+    {
+        "customer_id": 1090,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 84
+    },
+    {
+        "customer_id": 1091,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 76
+    },
+    {
+        "customer_id": 1092,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 54
+    },
+    {
+        "customer_id": 1093,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 86
+    },
+    {
+        "customer_id": 1094,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 50
+    },
+    {
+        "customer_id": 1095,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 20
+    },
+    {
+        "customer_id": 1096,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 9
+    },
+    {
+        "customer_id": 1097,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 38
+    },
+    {
+        "customer_id": 1098,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 61
+    },
+    {
+        "customer_id": 1099,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 74
+    },
+    {
+        "customer_id": 1100,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 6
+    },
+    {
+        "customer_id": 1101,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 38
+    },
+    {
+        "customer_id": 1102,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 72
+    },
+    {
+        "customer_id": 1103,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 70
+    },
+    {
+        "customer_id": 1104,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 39
+    },
+    {
+        "customer_id": 1105,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 18
+    },
+    {
+        "customer_id": 1106,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 96
+    },
+    {
+        "customer_id": 1107,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 74
+    },
+    {
+        "customer_id": 1108,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 52
+    },
+    {
+        "customer_id": 1109,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 26
+    },
+    {
+        "customer_id": 1110,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 23
+    },
+    {
+        "customer_id": 1111,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 52
+    },
+    {
+        "customer_id": 1112,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 93
+    },
+    {
+        "customer_id": 1113,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 71
+    },
+    {
+        "customer_id": 1114,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 2
+    },
+    {
+        "customer_id": 1115,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 33
+    },
+    {
+        "customer_id": 1116,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 84
+    },
+    {
+        "customer_id": 1117,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 18
+    },
+    {
+        "customer_id": 1118,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 88
+    },
+    {
+        "customer_id": 1119,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 44
+    },
+    {
+        "customer_id": 1120,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 87
+    },
+    {
+        "customer_id": 1121,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 66
+    },
+    {
+        "customer_id": 1122,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 36
+    },
+    {
+        "customer_id": 1123,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 13
+    },
+    {
+        "customer_id": 1124,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 42
+    },
+    {
+        "customer_id": 1125,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 94
+    },
+    {
+        "customer_id": 1126,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 23
+    },
+    {
+        "customer_id": 1127,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 80
+    },
+    {
+        "customer_id": 1128,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 24
+    },
+    {
+        "customer_id": 1129,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 8
+    },
+    {
+        "customer_id": 1130,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 5
+    },
+    {
+        "customer_id": 1131,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 54
+    },
+    {
+        "customer_id": 1132,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 29
+    },
+    {
+        "customer_id": 1133,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 58
+    },
+    {
+        "customer_id": 1134,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 76
+    },
+    {
+        "customer_id": 1135,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 28
+    },
+    {
+        "customer_id": 1136,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 86
+    },
+    {
+        "customer_id": 1137,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 7
+    },
+    {
+        "customer_id": 1138,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 88
+    },
+    {
+        "customer_id": 1139,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 60
+    },
+    {
+        "customer_id": 1140,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 15
+    },
+    {
+        "customer_id": 1141,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 5
+    },
+    {
+        "customer_id": 1142,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 52
+    },
+    {
+        "customer_id": 1143,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 53
+    },
+    {
+        "customer_id": 1144,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 15
+    },
+    {
+        "customer_id": 1145,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 7
+    },
+    {
+        "customer_id": 1146,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 15
+    },
+    {
+        "customer_id": 1147,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 65
+    },
+    {
+        "customer_id": 1148,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 26
+    },
+    {
+        "customer_id": 1149,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 23
+    },
+    {
+        "customer_id": 1150,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 91
+    },
+    {
+        "customer_id": 1151,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 77
+    },
+    {
+        "customer_id": 1152,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 16
+    },
+    {
+        "customer_id": 1153,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 68
+    },
+    {
+        "customer_id": 1154,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 25
+    },
+    {
+        "customer_id": 1155,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 97
+    },
+    {
+        "customer_id": 1156,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 69
+    },
+    {
+        "customer_id": 1157,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 54
+    },
+    {
+        "customer_id": 1158,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 98
+    },
+    {
+        "customer_id": 1159,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 77
+    },
+    {
+        "customer_id": 1160,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 58
+    },
+    {
+        "customer_id": 1161,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 42
+    },
+    {
+        "customer_id": 1162,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 53
+    },
+    {
+        "customer_id": 1163,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 56
+    },
+    {
+        "customer_id": 1164,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 51
+    },
+    {
+        "customer_id": 1165,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 15
+    },
+    {
+        "customer_id": 1166,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 5
+    },
+    {
+        "customer_id": 1167,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 54
+    },
+    {
+        "customer_id": 1168,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 12
+    },
+    {
+        "customer_id": 1169,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 95
+    },
+    {
+        "customer_id": 1170,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 36
+    },
+    {
+        "customer_id": 1171,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 76
+    },
+    {
+        "customer_id": 1172,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 67
+    },
+    {
+        "customer_id": 1173,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 53
+    },
+    {
+        "customer_id": 1174,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 35
+    },
+    {
+        "customer_id": 1175,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 98
+    },
+    {
+        "customer_id": 1176,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 4
+    },
+    {
+        "customer_id": 1177,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 45
+    },
+    {
+        "customer_id": 1178,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 28
+    },
+    {
+        "customer_id": 1179,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 76
+    },
+    {
+        "customer_id": 1180,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 1
+    },
+    {
+        "customer_id": 1181,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 90
+    },
+    {
+        "customer_id": 1182,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 91
+    },
+    {
+        "customer_id": 1183,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 42
+    },
+    {
+        "customer_id": 1184,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 90
+    },
+    {
+        "customer_id": 1185,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 38
+    },
+    {
+        "customer_id": 1186,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 4
+    },
+    {
+        "customer_id": 1187,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 73
+    },
+    {
+        "customer_id": 1188,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 2
+    },
+    {
+        "customer_id": 1189,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 95
+    },
+    {
+        "customer_id": 1190,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 40
+    },
+    {
+        "customer_id": 1191,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 98
+    },
+    {
+        "customer_id": 1192,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 49
+    },
+    {
+        "customer_id": 1193,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 57
+    },
+    {
+        "customer_id": 1194,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 15
+    },
+    {
+        "customer_id": 1195,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 80
+    },
+    {
+        "customer_id": 1196,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 30
+    },
+    {
+        "customer_id": 1197,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 86
+    },
+    {
+        "customer_id": 1198,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 49
+    },
+    {
+        "customer_id": 1199,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 56
+    },
+    {
+        "customer_id": 1200,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 31
+    },
+    {
+        "customer_id": 1201,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 53
+    },
+    {
+        "customer_id": 1202,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 28
+    },
+    {
+        "customer_id": 1203,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 79
+    },
+    {
+        "customer_id": 1204,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 37
+    },
+    {
+        "customer_id": 1205,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 30
+    },
+    {
+        "customer_id": 1206,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 78
+    },
+    {
+        "customer_id": 1207,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 84
+    },
+    {
+        "customer_id": 1208,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 44
+    },
+    {
+        "customer_id": 1209,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 44
+    },
+    {
+        "customer_id": 1210,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 34
+    },
+    {
+        "customer_id": 1211,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 55
+    },
+    {
+        "customer_id": 1212,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 42
+    },
+    {
+        "customer_id": 1213,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 69
+    },
+    {
+        "customer_id": 1214,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 10
+    },
+    {
+        "customer_id": 1215,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 60
+    },
+    {
+        "customer_id": 1216,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 8
+    },
+    {
+        "customer_id": 1217,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 78
+    },
+    {
+        "customer_id": 1218,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 85
+    },
+    {
+        "customer_id": 1219,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 17
+    },
+    {
+        "customer_id": 1220,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 57
+    },
+    {
+        "customer_id": 1221,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 52
+    },
+    {
+        "customer_id": 1222,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 38
+    },
+    {
+        "customer_id": 1223,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 19
+    },
+    {
+        "customer_id": 1224,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 13
+    },
+    {
+        "customer_id": 1225,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 97
+    },
+    {
+        "customer_id": 1226,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 43
+    },
+    {
+        "customer_id": 1227,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 10
+    },
+    {
+        "customer_id": 1228,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 57
+    },
+    {
+        "customer_id": 1229,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 58
+    },
+    {
+        "customer_id": 1230,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 92
+    },
+    {
+        "customer_id": 1231,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 56
+    },
+    {
+        "customer_id": 1232,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 20
+    },
+    {
+        "customer_id": 1233,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 25
+    },
+    {
+        "customer_id": 1234,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 21
+    },
+    {
+        "customer_id": 1235,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 70
+    },
+    {
+        "customer_id": 1236,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 19
+    },
+    {
+        "customer_id": 1237,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 3
+    },
+    {
+        "customer_id": 1238,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 99
+    },
+    {
+        "customer_id": 1239,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 67
+    },
+    {
+        "customer_id": 1240,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 55
+    },
+    {
+        "customer_id": 1241,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 85
+    },
+    {
+        "customer_id": 1242,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 87
+    },
+    {
+        "customer_id": 1243,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 77
+    },
+    {
+        "customer_id": 1244,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 73
+    },
+    {
+        "customer_id": 1245,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 66
+    },
+    {
+        "customer_id": 1246,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 7
+    },
+    {
+        "customer_id": 1247,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 42
+    },
+    {
+        "customer_id": 1248,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 20
+    },
+    {
+        "customer_id": 1249,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 27
+    },
+    {
+        "customer_id": 1250,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 63
+    },
+    {
+        "customer_id": 1251,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 19
+    },
+    {
+        "customer_id": 1252,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 39
+    },
+    {
+        "customer_id": 1253,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 71
+    },
+    {
+        "customer_id": 1254,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 36
+    },
+    {
+        "customer_id": 1255,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 25
+    },
+    {
+        "customer_id": 1256,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 76
+    },
+    {
+        "customer_id": 1257,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 68
+    },
+    {
+        "customer_id": 1258,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 14
+    },
+    {
+        "customer_id": 1259,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 42
+    },
+    {
+        "customer_id": 1260,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 12
+    },
+    {
+        "customer_id": 1261,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 30
+    },
+    {
+        "customer_id": 1262,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 23
+    },
+    {
+        "customer_id": 1263,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 79
+    },
+    {
+        "customer_id": 1264,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 28
+    },
+    {
+        "customer_id": 1265,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 86
+    },
+    {
+        "customer_id": 1266,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 76
+    },
+    {
+        "customer_id": 1267,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 49
+    },
+    {
+        "customer_id": 1268,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 10
+    },
+    {
+        "customer_id": 1269,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 59
+    },
+    {
+        "customer_id": 1270,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 86
+    },
+    {
+        "customer_id": 1271,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 46
+    },
+    {
+        "customer_id": 1272,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 18
+    },
+    {
+        "customer_id": 1273,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 49
+    },
+    {
+        "customer_id": 1274,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 44
+    },
+    {
+        "customer_id": 1275,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 34
+    },
+    {
+        "customer_id": 1276,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 18
+    },
+    {
+        "customer_id": 1277,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 9
+    },
+    {
+        "customer_id": 1278,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 72
+    },
+    {
+        "customer_id": 1279,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 35
+    },
+    {
+        "customer_id": 1280,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 14
+    },
+    {
+        "customer_id": 1281,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 39
+    },
+    {
+        "customer_id": 1282,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 76
+    },
+    {
+        "customer_id": 1283,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 78
+    },
+    {
+        "customer_id": 1284,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 23
+    },
+    {
+        "customer_id": 1285,
+        "preferred_contact": "Email",
+        "account_type": "Current",
+        "loyalty_score": 55
+    },
+    {
+        "customer_id": 1286,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 89
+    },
+    {
+        "customer_id": 1287,
+        "preferred_contact": "Email",
+        "account_type": "Savings",
+        "loyalty_score": 57
+    },
+    {
+        "customer_id": 1288,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 5
+    },
+    {
+        "customer_id": 1289,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 12
+    },
+    {
+        "customer_id": 1290,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 66
+    },
+    {
+        "customer_id": 1291,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 94
+    },
+    {
+        "customer_id": 1292,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 68
+    },
+    {
+        "customer_id": 1293,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 41
+    },
+    {
+        "customer_id": 1294,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 34
+    },
+    {
+        "customer_id": 1295,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 45
+    },
+    {
+        "customer_id": 1296,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 34
+    },
+    {
+        "customer_id": 1297,
+        "preferred_contact": "SMS",
+        "account_type": "Current",
+        "loyalty_score": 70
+    },
+    {
+        "customer_id": 1298,
+        "preferred_contact": "Phone",
+        "account_type": "Savings",
+        "loyalty_score": 32
+    },
+    {
+        "customer_id": 1299,
+        "preferred_contact": "SMS",
+        "account_type": "Savings",
+        "loyalty_score": 86
+    },
+    {
+        "customer_id": 1300,
+        "preferred_contact": "Phone",
+        "account_type": "Current",
+        "loyalty_score": 51
+    }
+]
